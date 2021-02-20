@@ -3,6 +3,7 @@ Plug 'preservim/NERDTree'
 Plug 'sheerun/vim-polyglot'
 Plug 'ghifarit53/tokyonight-vim'
 Plug 'itchyny/lightline.vim'
+Plug 'preservim/nerdtree'
 call plug#end()
 
 "color scheme stuff
